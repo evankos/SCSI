@@ -1,0 +1,112 @@
+SVM-light Version V5.01-TK-1.2
+5 # kernel type
+3 # kernel parameter -d 
+1 # kernel parameter -g 
+1 # kernel parameter -s 
+1 # kernel parameter -r 
+empty# kernel parameter -u 
+0.4 # kernel parameter -L 
+1 # kernel parameter -T 
+T # kernel parameter -C 
+1 # kernel parameter -F 
+1 # kernel parameter -S 
+1.000000 # kernel parameter -D 
+3 # kernel parameter -N 
+S # kernel parameter -V 
+S # kernel parameter -W 
+0 # highest feature index 
+113 # number of training documents 
+93 # number of support vectors plus 1 
+0.39886699 # threshold b, each following line is a SV (starting with alpha*y)
+-0.8367112314885551960230714030331  |BT| (VP (VBG finalizing)(NP (PRP$ its)(JJ steel)(NNS quotas))) |ET| 
+-0.19499215838419636792622213761206  |BT| (VP (VB make)(NP (JJ further)(NN use))) |ET| 
+-0.11599481710728698491408295012661  |BT| (VP (VBN negotiated)(NP (NP (DT a)(JJ significant)(NN cut))(PP (IN in)(NP (NP (NNP Japan)(POS 's))(NN steel)(NN quota))))) |ET| 
+-0.85076797389207658994791927398182  |BT| (VP (VB negotiate)(NP (NP (DT a)(ADJP (RB somewhat)(JJR bigger))(NN share))(PP (IN of)(NP (DT the)(NNP U.S.)(NN market)))(SBAR (IN than)(S (NP (PRP it))(VP (VBD had)(NP (-NONE- *))(PP (IN under)(NP (NP (DT the)(JJ previous)(JJ five)(NN steel)(NNS quotas))(, ,)(SBAR (WHNP (WDT which))(S (NP (-NONE- *T*))(VP (VBD expired)(NP (NNP Sept.)(CD 30)))))))))))) |ET| 
+-0.35270386966662192751442717053578  |BT| (NP (NP (DT the)(JJ previous)(JJ five)(NN steel)(NNS quotas))(SBAR (S (VP (VBD expired))))) |ET| 
+0.45825288955969167847825929129613  |BT| (NP (NP (DT The)(NNP U.S.))(SBAR (S (VP (VP (VBG finalizing)))))) |ET| 
+0.96362541886724339956771245851996  |BT| (SBAR (WHNP (WDT which))(S (VP (VP (VBG finalizing))))) |ET| 
+1  |BT| (S (NP (NP (DT The)(NNP U.S.))(, ,)(SBAR (WHNP (WDT which))(S (NP (-NONE- *T*))(VP (VBZ is)(VP (VBG finalizing)(NP (PRP$ its)(JJ steel)(NNS quotas))))))(, ,))(VP (VP (VBG allocating)))) |ET| 
+0.27007958261649972486750925781962  |BT| (S (NP (DT the)(NNP U.S.))(VP (VP (VP (VBN negotiated))))) |ET| 
+0.34178181572998506121408013314067  |BT| (S (NP (NP (NNP Brazil))(, ,)(ADJP (JJ similar)(PP (TO to)(NP (NP (NNP Mexico))(CC and)(NP (NNP South)(NNP Korea)))))(, ,))(VP (VP (S (VP (VP (VB negotiate))))))) |ET| 
+-1  |BT| (SBAR (WHNP (WDT which))(S (VP (VP (VP (VBN protected)))))) |ET| 
+1  |BT| (S (NP (DT the)(NN steel)(NNS negotiations))(VP (VBP allocate))) |ET| 
+-1  |BT| (S (NP (NNP Elcotel))(VP (VP (VB benefit)))) |ET| 
+1  |BT| (VP (VBN protected)(PP (NP (NNS governments)))) |ET| 
+-1  |BT| (S (NP (JJ Automatic)(NN call)(NNS processors))(VP (VP (PP (NP (PRN (S (VP (VBD said))))))))) |ET| 
+0.46304454151911017545373283610388  |BT| (S (NP (DT the)(NX (NX (NNS processors))(CC and)(NX (NN convenience)(NNS phones))))(VP (VP (VB produce)))) |ET| 
+-1  |BT| (S (NP (NNP Elcotel))(VP (VP (PP (S (VP (VBG moving))))))) |ET| 
+0.80230376891114829618345538619906  |BT| (S (NP (PRP he))(VP (VBD said))) |ET| 
+-1  |BT| (S (NP (NN Revenue))(VP (VBD totaled))) |ET| 
+1  |BT| (VP (NP (DT that)(ADJP (JJ two)(NN year))(NN period))(S (VP (VP (PP (NP (PP (S (VP (VBG freeing)))))))))) |ET| 
+-1  |BT| (S (NP (JJ several)(JJ new)(NNS products))(VP (VP (VB lead)))) |ET| 
+1  |BT| (VP (VB benefit)(PP (S (NP (-NONE- *))(VP (VBG moving)(PP (IN into)(NP (JJ other)(NNS areas))))))) |ET| 
+-1  |BT| (VP (VBD said)(SBAR (S (NP (NNP Elcotel))(VP (MD will)(ADVP (RB also))(VP (VB benefit)(PP (IN from)(S (NP (-NONE- *))(VP (VBG moving)(PP (IN into)(NP (JJ other)(NNS areas))))))))))) |ET| 
+0.84101693671850630273922888591187  |BT| (S (NP (JJ Automatic)(NN call)(NNS processors))(VP (VP (VB provide)))) |ET| 
+-0.071662452919935282213970140219317  |BT| (VP (VB provide)(NP (DT that)(NN system))) |ET| 
+0.86118211407478872931875457652495  |BT| (S (NP (NNP Elcotel))(VP (VBZ expects))) |ET| 
+-0.77746331711810734432788194681052  |BT| (VP (VBG freeing)(NP (NP (DT the)(JJ international)(NN steel)(NN trade))(, ,)(SBAR (WHNP (WDT which))(S (NP (-NONE- *T*))(VP (VBZ has)(VP (VBN been)(VP (ADVP (RB notoriously))(VBN managed)(, ,)(VBN subsidized)(CC and)(VBN protected)(NP (-NONE- *))(PP (IN by)(NP (NNS governments)))))))))) |ET| 
+0.85866894597701404201472996646771  |BT| (S (NP (DT A)(NNP P&G)(NN spokeswoman))(VP (VBD confirmed))) |ET| 
+-1  |BT| (NP (NP (DT another)(CD 1)(NN %))(SBAR (S (VP (VP (VB allocate)))))) |ET| 
+1  |BT| (SBAR (WHNP (WDT which))(S (VP (VP (VB accept))))) |ET| 
+-1  |BT| (SBAR (WHNP (WDT which))(S (VP (VBD expired)))) |ET| 
+1  |BT| (NP (NP (DT an)(JJ automatic)(NN call)(NN processor))(SBAR (S (VP (VP (VB make)))))) |ET| 
+-1  |BT| (NP (NP (NN steel))(SBAR (S (VP (VP (VB total)))))) |ET| 
+1  |BT| (NP (NP (NP (DT the)(NN company)(POS 's)))(PP (S (VP (VBG handling))))) |ET| 
+-1  |BT| (VP (VBN developed)(NP (NP (DT an)(JJ automatic)(NN call)(NN processor))(SBAR (WHNP (WDT that))(S (NP (-NONE- *T*))(VP (MD will)(VP (VB make)(NP (JJ further)(NN use))(PP (IN of)(NP (NP (NP (DT the)(NN company)(POS 's))(NN system))(PP (IN for)(S (NP (-NONE- *))(VP (VBG automating)(CC and)(VBG handling)(NP (NP (NN credit)(NNS calls))(CC and)(NP (JJ collect)(NNS calls)))))))))))))) |ET| 
+0.80645482220886954838334759188001  |BT| (NP (NP (DT the)(JJ first)(NNS countries))(SBAR (S (VP (VP (VB conclude)))))) |ET| 
+-0.70589695349577830096876596144284  |BT| (VP (VB accept)(NP (NNS coins))) |ET| 
+1  |BT| (S (NP (NP (NNP George)(NNP Pierce))(, ,)(NP (NP (NN chairman))(CC and)(NP (JJ chief)(JJ executive)(NN officer)))(, ,))(VP (VBD said))) |ET| 
+-1  |BT| (NP (NP (DT the)(JJ international)(NN steel)(NN trade))(SBAR (S (VP (VP (VP (VBN protected))))))) |ET| 
+1  |BT| (S (NP (NP (NNP Mexico))(, ,)(SBAR (WHNP (WDT which))(S (NP (-NONE- *T*))(VP (VBD was)(NP (NP (CD one))(PP (IN of)(NP (NP (DT the)(JJ first)(NNS countries))(SBAR (WHNP (-NONE- 0))(S (NP (-NONE- *T*))(VP (TO to)(VP (VB conclude)(NP (NP (PRP$ its)(NN steel)(NNS talks))(PP (IN with)(NP (DT the)(NNP U.S.))))))))))))))(, ,))(VP (VBD doubled))) |ET| 
+-0.62484621595518174963501678575994  |BT| (VP (VB conclude)(NP (NP (PRP$ its)(NN steel)(NNS talks))(PP (IN with)(NP (DT the)(NNP U.S.))))) |ET| 
+1  |BT| (NP (NP (NN convenience)(NNS telephones))(SBAR (S (VP (VP (VB accept)))))) |ET| 
+-1  |BT| (S (NP (NP (IN that)(NN line))(PP (IN of)(NP (NN business))))(VP (VP (VB strengthen)))) |ET| 
+1  |BT| (S (NP (NP (NNS Negotiators))(PP (IN from)(NP (DT the)(NNP White)(NNP House)(NN trade)(NN office))))(VP (VP (VB repeat)))) |ET| 
+-0.72049845050650973554695610800991  |BT| (VP (VB provide)(NP (NP (DT a)(NN credit)(NN reader))(SBAR (WHADVP (-NONE- 0))(IN for)(S (NP (DT the)(NNS machines))(VP (TO to)(VP (VB collect)(, ,)(VB store)(CC and)(VB forward)(NP (NN billing)(NNS data))(ADVP (-NONE- *T*)))))))) |ET| 
+0.1172094535938161263821655211359  |BT| (S (NP (DT The)(NN company))(VP (VP (VP (VBN chosen))))) |ET| 
+-0.57142534891537088981294800760224  |BT| (S (NP (DT The)(JJR lower)(NNS results))(PRN (S (VP (VBD said))))) |ET| 
+0.70042768121028209371559114515549  |BT| (VP (VBN produced)(PP (NP (NNP Elcotel)))) |ET| 
+-0.4445257228820587158679700223729  |BT| (NP (NP (RB not)(RB just)(VBZ phones))(VP (VBN produced))) |ET| 
+1  |BT| (S (NP (NNP Brazil)(CC and)(NNP Venezuela))(VP (NP (SBAR (S (VP (VP (VBN completed)))))))) |ET| 
+-0.7530084096948765903789535514079  |BT| (VP (VBN completed)) |ET| 
+-0.024251793782800928900300618806796  |BT| (VP (VBD said)(SBAR (S (NP (NP (NNS earnings))(PP (IN in)(NP (DT the)(ADJP (RBS most)(JJ recent))(NN quarter))))(VP (MD will)(VP (VB be)(NP (NP (NP (QP (RB about)(CD two))(NNS cents))(NP (DT a)(NN share)))(PP (IN on)(NP (NP (NN revenue))(PP (IN of)(NP (QP (RB just)(IN under)($ $)(CD 4)(CD million))(-NONE- *U*))))))))))) |ET| 
+-0.49403023542000851220379331607546  |BT| (VP (VBZ expects)(S (NP (-NONE- *))(VP (TO to)(VP (VB place)(NP (NP (CD 10,000)(NN fax)(NNS machines))(, ,)(VP (VBN made)(NP (-NONE- *))(PP (IN by)(NP (NNP Minolta)))(PP (IN in)(NP (NNP Japan))))(, ,))(PP (IN in)(NP (NP (NNS hotels))(, ,)(NP (JJ municipal)(NNS buildings))(, ,)(NP (NNS drugstores))(CC and)(NP (NP (JJ other)(JJ public)(NNS settings))(PP (IN around)(NP (DT the)(NN country)))))))))) |ET| 
+0.59677213778105120400852001694147  |BT| (VP (VBN replaced)(PP (NP (NNS tablespoons)))) |ET| 
+-1  |BT| (VP (VBZ expects)(S (NP (JJ fiscal)(JJ second)(NNS earnings))(VP (TO to)(VP (VB trail)(NP (CD 1988)(NNS results)))))) |ET| 
+0.66156984724355649696292402950348  |BT| (S (NP (NP (NP (DT The)(NNP EC))(CC and)(NP (NNP Japan)))(: --)(NP (NP (DT the)(NNP U.S.)(POS 's))(JJS largest)(NN steel)(NNS suppliers))(: --))(VP (VP (VP (VBG filling))))) |ET| 
+-0.55176627452688875585806727031013  |BT| (VP (VBP allocate)(NP (NP (QP (RB about)(CD 15))(NN %))(PP (-NONE- *T*)))) |ET| 
+1  |BT| (S (NP (JJ fiscal)(JJ second)(NNS earnings))(VP (VP (VB trail)))) |ET| 
+0.4734390902315730453864262017305  |BT| (S (NP (PRP it))(VP (VBD adopted))) |ET| 
+-0.56120337647493545585319907331723  |BT| (S (SINV (ADJP (RB Foremost))(PP (IN among)(NP (DT those)))(VP (VBZ is)(ADJP (-NONE- *T*)))(NP (NP (NP (DT the)(NN company)(POS 's))(NN entrance))(PP (IN into)(NP (DT the)(JJ public)(NN facsimile)(NN business)))))(VP (VBD said))) |ET| 
+0.65496532744580426843583609297639  |BT| (SBAR (WHNP (WDT that))(S (VP (VP (VB make))))) |ET| 
+-0.51239036689139960678573970653815  |BT| (VP (VB repeat)(NP (DT these)(NN quota)(NNS negotiations))) |ET| 
+0.61048919935829126792725674022222  |BT| (S (NP (DT the)(NNPS Japanese))(VP (VP (VBN embraced)))) |ET| 
+-0.35449145977883345093317757346085  |BT| (VP (VBG handling)(NP (NP (NN credit)(NNS calls))(CC and)(NP (JJ collect)(NNS calls)))) |ET| 
+-0.4701062645583938826021608292649  |BT| (VP (VBD doubled)(NP (PRP$ its)(NN quota))) |ET| 
+0.33748084322582483363106575779966  |BT| (S (NP (NNP Kao))(VP (VBD introduced))) |ET| 
+-0.39493693581864974806450163669069  |BT| (NP (NP (ADJP (RB virtually)(DT any))(NN telephone))(PRN (S (VP (VBD said))))) |ET| 
+0.59557670729079592586430180745083  |BT| (VP (VBN made)(PP (NP (NNP Minolta)))) |ET| 
+-0.45194328428232849459433850825008  |BT| (VP (VBG producing)(NP (NP (DT a)(JJ new)(NN line))(PP (IN of)(NP (NP (NN convenience)(NNS telephones))(, ,)(SBAR (WHNP (WDT which))(S (NP (-NONE- *T*))(VP (VBP do)(RB n't)(VP (VB accept)(NP (NNS coins))))))(, ,)))(PP (IN for)(NP (NP (NN use))(PP (IN in)(NP (NP (NN hotel)(NNS lobbies))(, ,)(NP (NN office)(NNS lobbies))(, ,)(NP (NN hospitality)(NNS lounges))(CC and)(NP (JJ similar)(NNS settings)))))))) |ET| 
+-0.35693000497914506574659299076302  |BT| (VP (VBD said)(SBAR (S (NP (NNP Elcotel))(VP (MD should)(VP (VB realize)(NP (NP (DT a)(NN minimum))(PP (IN of)(NP (NP ($ $)(CD 10)(-NONE- *U*))(PP (IN of)(NP (VBG recurring)(JJ net)(NNS earnings))))))(PP (IN for)(NP (DT each)(NN machine)))(NP (DT each)(NN month))))))) |ET| 
+0.43648731949780744665545739735535  |BT| (S (NP (DT The)(NN company))(VP (PP (S (VP (VBG watching)))))) |ET| 
+-0.39247106981188917274039340554737  |BT| (VP (VBG filling)(NP (PRP$ their)(NNS quotas))) |ET| 
+0.91470167232298971171644552669022  |BT| (S (NP (NNP Elcotel))(VP (VP (VBN developed)))) |ET| 
+-0.5778132206776716017770922917407  |BT| (VP (NP (DT that)(NN system))(PP (NP (PRN (S (VP (VBD said))))))) |ET| 
+-0.27674867457811513915544310293626  |BT| (NP (NP (CD 10,000)(NN fax)(NNS machines))(VP (VBN made))) |ET| 
+-0.2747882397984114932754096116696  |BT| (VP (VBZ anticipates)(SBAR (S (NP (JJ several)(JJ new)(NNS products))(VP (MD will)(VP (VB lead)(PP (TO to)(NP (NP (DT a)(`` ``)(ADJP (RB much)(JJR stronger))('' '')(NN performance))(PP (IN in)(NP (PRP$ its)(JJ second)(NN half)))))))))) |ET| 
+-0.24755065373235346504188214566966  |BT| (NP (NP (PRP$ its)(JJ year)(NN second)(NN quarter))(VP (VBN ended))) |ET| 
+-0.31277679171601036056671318874578  |BT| (VP (VB withdraw)(NP (NNS subsidies)(CC and)(NN protectionism))) |ET| 
+-0.30160681807540412613377611705801  |BT| (VP (VBN completed)(NP (NP (NN steel)(NNS talks))(PP (IN with)(NP (DT the)(NNP U.S.)))(PP (IN for)(NP (NP (DT the)(NN year))(VP (VBG ending)(NP (NNP Oct.)(CD 1)(, ,)(CD 1990))))))) |ET| 
+-0.31868965175737540285183513333322  |BT| (NP (NP (DT the)(NN steel))(VP (VBN imported))) |ET| 
+0.76892505122503762571284369187197  |BT| (S (NP (NNP Mr.)(NNP Pierce))(VP (VBD said))) |ET| 
+0.2991168677286669685955189379456  |BT| (S (NP (PRP It))(VP (VBZ marks))) |ET| 
+-0.17945464059759874686506009311415  |BT| (VP (VBP reflect)(NP (NP (DT a)(JJ 12)(NN decline))(PP (IN in)(NP (NP (NN industry)(NNS sales))(PP (IN of)(NP (NP (ADJP (RB privately)(VBN owned))(NN pay)(NNS telephones))(, ,)(NP (NP (NNP Elcotel)(POS 's))(JJ primary)(NN business)))))))) |ET| 
+-0.25733286247001596613870333385421  |BT| (VP (VB place)(NP (NP (CD 10,000)(NN fax)(NNS machines))(, ,)(VP (VBN made)(NP (-NONE- *))(PP (IN by)(NP (NNP Minolta)))(PP (IN in)(NP (NNP Japan))))(, ,))) |ET| 
+0.44417485714727117374067688615469  |BT| (S (NP (DT The)(NN company))(VP (VBD introduced))) |ET| 
+0.098645788426142300142629437686992  |BT| (S (NP (DT the)(NNS machines))(VP (VP (VB collect)))) |ET| 
+-0.081483120562826083510543639931711  |BT| (VP (VB extend)(NP (NP (NN steel)(NNS quotas))(, ,)(VP (VBN known)(NP (-NONE- *))(PP (IN as)(NP (JJ voluntary)(NN restraint)(NNS agreements))))(, ,))) |ET| 
+-0.089630781809716730812453988619382  |BT| (VP (MD will)(VP (PP (NP (PRN (S (VP (VBD said)))))))) |ET| 
+0.070360339330959642545337828778429  |BT| (S (NP (NNP Elcotel)(NNP Inc.))(VP (VP (VBZ anticipates)))) |ET| 
+-0.019154011423753225518140652638976  |BT| (VP (VB collect)(NP (NN billing)(NNS data))) |ET| 
+0.082933966315107243705284645329812  |BT| (S (NP (DT the)(NNS machines))(VP (VP (VB store)))) |ET| 
+-0.0076395300067531035637102831969969  |BT| (VP (VB store)(NP (NN billing)(NNS data))) |ET| 

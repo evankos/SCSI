@@ -1,0 +1,22 @@
+-2 	|BT| (SBAR (WHADVP how)(S (VP (VBD did)(VP (VB serfdom)(VP (VB develop)(SBAR (IN in)(S (CC and)(S (ADVP then)(VP (VB leave)(NP Russia))))))))(. ?))) |ET| 
+-1 	|BT| (SBARQ (WHNP (WDT what)(NNS films))(SBARQ (SQ (VBD featured)(NP (NP (DT the)(NN character))(NP (NNP Popeye)(NNP Doyle))))(. ?))) |ET| 
+-2 	|BT| (SBARQ (WHADVP how)(SBARQ (SQ (MD can)(SQ (NP I)(VP (VB find)(NP (NP (DT a)(NN list))(PP (IN of)(NP (NP (NN celebrities)(POS '))(NP (JJ real)(NNS names))))))))(. ?))) |ET| 
+-1 	|BT| (SBARQ (WHNP (WDT what)(NN fowl))(SBARQ (SQ (VBZ grabs)(NP (NP (DT the)(NN spotlight))(PP (IN after)(NP (NP (DT the)(NP (NNP Chinese)(NNP Year)))(PP (IN of)(NP (DT the)(NNP Monkey)))))))(. ?))) |ET| 
+-3 	|BT| (SBARQ (WHNP what)(SBARQ (SQ (VBZ is)(NP (DT the)(NP (NP (JJ full)(NN form))(PP (IN of)(NP .com)))))(. ?))) |ET| 
+1 	|BT| (SBARQ (WHNP (WDT what)(NP (JJ contemptible)(NN scoundrel)))(SBARQ (SQ (VBZ stole)(NP (NP (DT the)(NN cork))(PP (IN from)(NP (PRP$ my)(NN lunch)))))(. ?))) |ET| 
+1 	|BT| (SBARQ (WHNP (WDT what)(NN team))(SBARQ (SQ (VBD did)(SQ (NP (NP (NN baseball)(POS 's))(NP (NNP St.)(NP (NNP Louis)(NNP Browns))))(VP become)))(. ?))) |ET| 
+1 	|BT| (SBARQ (WHNP what)(SBARQ (SQ (VBZ is)(NP (DT the)(NP (JJS oldest)(NN profession))))(. ?))) |ET| 
+-2 	|BT| (SBARQ (WHNP what)(SBARQ (SQ (VBP are)(NP (JJ liver)(NN enzymes)))(. ?))) |ET| 
+1 	|BT| (S (VP (VB name)(NP (NP (NP (DT the)(NN scar-faced))(NP (JJ bounty)(NN hunter)))(PP (IN of)(NP (DT The)(NP (NNP Old)(NNP West))))))(. .)) |ET| 
+2 	|BT| (SBARQ (WHADVP when)(SBARQ (SQ (VBD was)(SQ (NP (NNP Ozzy)(NNP Osbourne))(VP born)))(. ?))) |ET| 
+-2 	|BT| (SBARQ (WHADVP why)(SBARQ (SQ (VBP do)(SQ (NP (JJ heavier)(NN objects))(VP (VB travel)(ADJP (RB downhill)(JJR faster)))))(. ?))) |ET| 
+1 	|BT| (SBARQ (WHNP who)(SBARQ (SQ (VBD was)(NP (NP (DT The)(NNP Pride))(PP (IN of)(NP (DT the)(NNP Yankees)))))(. ?))) |ET| 
+1 	|BT| (SBARQ (WHNP who)(SBARQ (SQ (VBD killed)(NP Gandhi))(. ?))) |ET| 
+-1 	|BT| (NP (WHNP what)(S (VBZ is)(VP (VBN considered)(S (NP (DT the)(NP (JJ costliest)(NN disaster)))(S (NP (DT the)(NP (NN insurance)(NN industry)))(S (VP (VBZ has)(VP (ADVP ever)(VBN faced)))(. ?))))))) |ET| 
+3 	|BT| (SBARQ (WHNP (WDT what)(NP (VBG sprawling)(NP (NNP U.S.)(NN state))))(SBARQ (SQ (VBZ boasts)(NP (DT the)(NP (JJS most)(NN airports))))(. ?))) |ET| 
+-2 	|BT| (SBARQ (WHNP what)(SBARQ (SQ (VBD did)(SQ (NP (NP (DT the)(NP (ADJP (RB only)(VBN repealed))(NN amendment)))(PP (TO to)(NP (DT the)(NP (NNP U.S.)(NNP Constitution)))))(VP (VB deal)(PP with))))(. ?))) |ET| 
+2 	|BT| (SBARQ (WHNP (WHADJP (WRB how)(JJ many))(NNPS Jews))(SBARQ (SQ (VBD were)(VP (VBN executed)(PP (IN in)(NP (NP (JJ concentration)(NN camps))(PP (IN during)(NP WWII))))))(. ?))) |ET| 
+-2 	|BT| (SBARQ (WHNP what)(SBARQ (SQ (VBZ is)(NP (`` ``)(NP (NP (NNP Nine)(NNP Inch))(NP (NNP Nails)('' '')))))(. ?))) |ET| 
+-2 	|BT| (SBARQ (WHNP what)(SBARQ (SQ (VBZ is)(NP (DT an)(NP (JJ annotated)(NN bibliography))))(. ?))) |ET| 
+2 	|BT| (SBARQ (WHNP what)(SBARQ (SQ (VBZ is)(NP (NP (DT the)(NN date))(PP (IN of)(NP (NNP Boxing)(NNP Day)))))(. ?))) |ET| 
+-1 	|BT| (WHNP (WDT what)(NP (NP articles)(SBAR (IN of)(S (VP (VBG clothing)(VP (VBP are)(VP (VB tokens)(PP (IN in)(NP Monopoly)))))(. ?))))) |ET| 
